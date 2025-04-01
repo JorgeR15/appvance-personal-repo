@@ -13,11 +13,13 @@
     "source": "path",
     "platformName": "Android",
     "capabilities": {
-      "app": "https://www.google.com/",
       "platformVersion": "12",
-      "udid": "emulator5562",
+      "udid": "emulator-5562",
       "deviceName": "AutomationLarge-android-31-5"
     },
-    "videoPort": ""
+    "videoPort": "",
+    "capturePort": "",
+    "proxyHost": "",
+    "proxyPort": ""
   }
 ]
