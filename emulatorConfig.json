@@ -1,0 +1,23 @@
+[
+  {
+    "app": "https://www.google.com/",
+    "appActivity": "com.google.android.apps.chrome.Main",
+    "appPackage": "com.android.chrome",
+    "bundleId": "",
+    "validDomains": "",
+    "service": "On-Premises",
+    "configName": "Android Config",
+    "deviceMode": false,
+    "proxyURL": "",
+    "serverURL": "http://selhub.fnb.cfbi.local:4444/wd/hub",
+    "source": "path",
+    "platformName": "Android",
+    "capabilities": {
+      "app": "https://www.google.com/",
+      "platformVersion": "12",
+      "udid": "emulator5562",
+      "deviceName": "AutomationLarge-android-31-5"
+    },
+    "videoPort": ""
+  }
+]
