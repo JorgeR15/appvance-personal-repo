@@ -14,8 +14,8 @@
     "platformName": "Android",
     "capabilities": {
       "platformVersion": "12",
-      "udid": "emulator-5562",
-      "deviceName": "AutomationLarge-android-31-5"
+      "udid": "emulator5562",
+      "deviceName": "AutomationLargeandroid315"
     },
     "videoPort": "",
     "capturePort": "",
