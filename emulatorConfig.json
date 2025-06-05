@@ -6,21 +6,18 @@
     "bundleId": "",
     "validDomains": "",
     "service": "On-Premises",
-    "configName": "Android Config",
-    "deviceMode": false,
+    "configName": "emulatorConfig",
+    "deviceMode": true,
     "proxyURL": "",
-    "serverURL": "http://127.0.0.1:4723",
+    "serverURL": "http://localhost:4723",
     "source": "package",
     "platformName": "Android",
     "capabilities": {
-      "app": "",
       "platformVersion": "34",
       "udid": "emulator-5554",
-      "deviceName": "device"
+      "deviceName": "device",
+      "app": ""
     },
-    "videoPort": "",
-    "capturePort": "",
-    "proxyHost": "",
-    "proxyPort": ""
+    "videoPort": ""
   }
 ]
