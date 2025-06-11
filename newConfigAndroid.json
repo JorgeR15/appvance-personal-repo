@@ -17,6 +17,8 @@
       "platformVersion": "34",
       "udid": "emulator-5554",
       "deviceName": "device"
+      "appActivity": "com.frostbank.android.common.SplashActivity",
+      "appPackage": "com.frostbank.android.dev"
     },
     "videoPort": ""
   }
