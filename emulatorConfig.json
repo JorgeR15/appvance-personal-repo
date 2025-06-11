@@ -15,7 +15,9 @@
     "capabilities": {
       "platformVersion": "12",
       "udid": "emulator5562",
-      "deviceName": "AutomationLargeandroid315"
+      "deviceName": "AutomationLargeandroid315",
+      "appActivity": "com.google.android.apps.chrome.Main",
+      "appPackage": "com.android.chrome"
     },
     "videoPort": "",
     "capturePort": "",
