@@ -9,7 +9,7 @@
     "configName": "emulatorConfig",
     "deviceMode": true,
     "proxyURL": "",
-    "serverURL": "http://localhost:4723",
+    "serverURL": "http://192.168.1.27:4723",
     "source": "package",
     "platformName": "Android",
     "capabilities": {
@@ -18,6 +18,9 @@
       "deviceName": "device",
       "app": ""
     },
-    "videoPort": ""
+    "videoPort": "",
+    "capturePort": "",
+    "proxyHost": "",
+    "proxyPort": ""
   }
 ]
