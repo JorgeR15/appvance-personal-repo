@@ -1,0 +1,23 @@
+[
+  {
+    "app": "",
+    "appActivity": "com.frostbank.android.common.SplashActivity",
+    "appPackage": "com.frostbank.android.dev",
+    "bundleId": "",
+    "validDomains": "",
+    "service": "On-Premises",
+    "configName": "TwoConfigAndroid",
+    "deviceMode": true,
+    "proxyURL": "",
+    "serverURL": "http://localhost:4723/wd/hub",
+    "source": "package",
+    "platformName": "Android",
+    "capabilities": {
+      "platformVersion": "34",
+      "udid": "emulator-5554",
+      "deviceName": "device",
+      "app": ""
+    },
+    "videoPort": ""
+  }
+]
